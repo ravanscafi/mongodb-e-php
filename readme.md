@@ -1,10 +1,9 @@
-# PHP + MongoDB Workshop 🇧🇷
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e89b16e0-99b0-47a5-b327-3862a9cddf30/deploy-status)](https://app.netlify.com/sites/elated-wiles-45494c/deploys)
+# MongoDB e PHP - O que você precisa saber para começar 🇧🇷
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b9a11eb3-11e1-4139-b233-b16b8391d6f7/deploy-status)](https://app.netlify.com/sites/silly-swanson-5ce177/deploys)
 
+Slides for my MongoDB presentation, made in Brazilian Portuguese for [PHPeste Conference](https://phpeste.net).
 
-Slides for my MongoDB Workshop, made in Brazilian Portuguese for [PHP Community Summit](https://php.locaweb.com.br/).
-
-It's currently hosted at [my website](https://mongodb-workshop.ravan.me/).
+It's currently hosted at [my website](https://mongodb-e-php.ravan.me/).
 
 I've used the awesome [mdx-deck](https://github.com/jxnblk/mdx-deck) project and a lot of jerry-rigs, sorry.
 
